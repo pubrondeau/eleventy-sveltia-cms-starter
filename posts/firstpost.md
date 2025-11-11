@@ -36,12 +36,3 @@ Ou via le code: EMMRON41
 A bientôt j'espère !
 
 Emmanuel
-
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### H5 and a list
-
-- List item 1
-- List item 2
-- List item 3
-- List item 4
