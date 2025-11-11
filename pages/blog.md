@@ -1,6 +1,6 @@
 ---
 title: Offres
-date: 2025-11-11T16:19:00
+date: 2025-11-11T17:19:00
 eleventyNavigation:
   key: Parrainage
   title: Offres
@@ -8,4 +8,4 @@ eleventyNavigation:
 description: A sample Blog index listing all posts.
 layout: layouts/blog.njk
 ---
-liste des offres de parrainage par [auteur](/authors/).
+Liste des offres de parrainage par [auteur](/authors/).
