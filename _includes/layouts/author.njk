@@ -11,7 +11,7 @@ permalink: "authors/{{ name | slug }}/"
 
 {{ layoutContent | safe }}
 
-<p>All posts by {{ name }}</p>
+<p>Toutes les offres de {{ name }}</p>
 
 {% set postsList = collections.myAuthors[name] %}
 {% include "components/postsList.njk" %}
