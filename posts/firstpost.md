@@ -1,7 +1,7 @@
 ---
 title: Bricks
 date: 2025-11-11T16:10:00
-author: Emmanuel, super parrain
+author: emmanuel
 summary: |-
   Investir dans l'immobilier à partir de 10€, à votre rythme.
   Différents projets immobiliers et commerciaux.
