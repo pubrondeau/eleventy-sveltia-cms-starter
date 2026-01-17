@@ -1,14 +1,14 @@
 ---
-layout: layouts/contact.njk
 title: Contact
-description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
-section: contact
-date: 2018-01-01
+date: 2026-01-17T19:01:00
 permalink: /contact/index.html
 eleventyNavigation:
   key: contact
   title: Contact
   order: 3
+description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
+section: contact
+layout: layouts/contact.njk
 ---
 This is an example of a contact page.
 
